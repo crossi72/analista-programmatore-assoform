@@ -1,2 +1,3 @@
 aggiungo una riga al primo file
 faccio una modifica complessa al file
+vediamo cosa succede facendo una pull prima della commit
