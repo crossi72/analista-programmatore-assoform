@@ -1,6 +1,6 @@
 aggiungo una riga al primo file
 inserisco in locale una riga all'inizio del file
-faccio una modifica complessa al file
+faccio una modifica complessa e pericolosa al file
 vediamo cosa succede facendo una pull prima della commit
 il mio collega sta lavorando alla fine del file, cosa succederà?
 posso modificare qualsiasi file
