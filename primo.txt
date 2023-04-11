@@ -1,9 +1,14 @@
 aggiungo una riga al primo file
+Prova di collegamento
 inserisco in locale una riga all'inizio del file
 faccio una modifica elicata e complessa al file
 faccio una modifica complessa e pericolosa al file
 vediamo cosa succede facendo una pull prima della commit
 il mio collega sta lavorando alla fine del file, cosa succederà?
 posso modificare qualsiasi file
+Questa modifica la vedete in tempo reale
 tutte le modifiche andranno solamente
 nel ramo di sviluppo
+La lampadina
+
+Quanti programmatori sanno cambiare una lampadina ? nessuno perchè è un problema hardware 
